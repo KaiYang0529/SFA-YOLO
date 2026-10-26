@@ -1,0 +1,22 @@
+# # dataset path
+
+# train: /home/amax/improve/datasets5/images/train
+# val: /home/amax/improve/datasets5/images/val
+# #test: 
+
+# # number of classes
+# nc: 4
+
+
+path: /home/amax/improve/datasets5  # dataset root dir
+train: images/train  # train images (relative to 'path') 128 images
+val: images/val  # val images (relative to 'path') 128 images
+test: images/val # test images (optional)
+
+# Classes
+
+names:
+  [
+    'No issues', 'string', 'Flashover damage', 'Broken', 'notbroken-notflashed'
+
+]

@@ -147,6 +147,4 @@ This research is supported by the Shanxi Provincial Basic Research Program (Free
 ##📬 Contact
 Corresponding author: Kai Yang
 Email: yangkai0529@126.com
-Code availability: If you need to use the code, you can obtain it from the corresponding author.
-
 
